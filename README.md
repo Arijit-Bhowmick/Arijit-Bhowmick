@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Arijit Bhowmick**
+**I am Arijit Bhowmick aka <a href='https://github.com/sys41x4'>sys41x4</a>**
 
 Info's about me:
 
